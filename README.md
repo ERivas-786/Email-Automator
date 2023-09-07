@@ -11,6 +11,7 @@ This script requires login information from your email account since the emails 
 For this reason, it is strongly recommended for you to log in to your email provider and create an app password to use for this script.
 For gmail, one can be created in your gmail settings by going to security --> app passwords --> then creating a password specifically for the script.
 
+
 ![image](https://github.com/ERivas-786/Email-Automator/assets/93616533/433174cf-5447-416a-b8c0-6fc0a91d436b)
 
 ![image](https://github.com/ERivas-786/Email-Automator/assets/93616533/583f6e08-9084-44cf-9cbe-f7767832d16e)
@@ -54,7 +55,7 @@ Additionally, the pdf must be saved in the SAME directory as the email_messenger
 
 
 
-Once all emails are sent, the program will finish executing
+One all the setup is complete you can either run the script directly through VS Code or enter the command "python email_messenger.py" in your terminal (YOU MUST BE INSIDE THE EMAIL_MESSENGER DIRECTORY)
 
 
 
